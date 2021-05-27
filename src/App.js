@@ -1,5 +1,7 @@
 import './App.css';
+import BoxList from "./BoxList"
 
+/** App -> BoxList */
 function App() {
   return (
     <div className="App">
